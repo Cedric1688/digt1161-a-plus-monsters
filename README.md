@@ -21,6 +21,8 @@ Task ownership can rotate. The proposed interview coordinator is Yuhong; the tea
 
 ## Documentation
 
+- [Published MkDocs website](https://cedric1688.github.io/digt1161-a-plus-monsters/)
+- [GitHub Projects board](https://github.com/users/Cedric1688/projects/1)
 - [Project proposal](https://docs.google.com/document/d/1MWSHjRpGQIUuIV12Ypad3qxPqhd8dASC0x1Zmll0Jjk/edit?tab=t.o8wn9mwexasz)
 - [Documentation home](docs/index.md)
 - [Submission record](docs/submission.md)
@@ -35,6 +37,6 @@ Use `main` and a feature branch for each task. Every PR requires at least one pe
 
 ## Preview the documentation
 
-Install the documentation dependency in an isolated environment, then run `mkdocs serve`. Publish the `docs` site to GitHub Pages after the repository owner and Pages settings have been confirmed.
+Install `requirements-docs.txt` in an isolated environment, then run `python -m mkdocs serve`. Run `python -m mkdocs build --strict` to check the site. The Documentation workflow builds pull requests and publishes successful changes on `main` to GitHub Pages.
 
 The repository does not include an implementation yet. The course's runnable-artifact requirement applies to the delivered product, not a claim that this setup is already the final product.

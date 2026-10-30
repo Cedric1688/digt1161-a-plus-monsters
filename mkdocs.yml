@@ -1,5 +1,7 @@
 site_name: A+ Monsters
 repo_url: https://github.com/Cedric1688/digt1161-a-plus-monsters
+site_url: https://cedric1688.github.io/digt1161-a-plus-monsters/
+edit_uri: edit/main/docs/
 docs_dir: docs
 site_dir: site
 theme:
@@ -8,6 +10,7 @@ nav:
   - Home: index.md
   - Proposal: proposal.md
   - Backlog: backlog.md
+  - Delivery plan: project_plan.md
   - Team contract: team_contract.md
   - Interviews: interview_kit.md
   - AI use: ai_usage.md
