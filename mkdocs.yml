@@ -1,0 +1,14 @@
+site_name: A+ Monsters
+repo_url: https://github.com/Cedric1688/digt1161-a-plus-monsters
+docs_dir: docs
+site_dir: site
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Proposal: proposal.md
+  - Backlog: backlog.md
+  - Team contract: team_contract.md
+  - Interviews: interview_kit.md
+  - AI use: ai_usage.md
+  - Submission: submission.md

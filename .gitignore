@@ -1,0 +1,11 @@
+site/
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+private_notes/
+interview_recordings/
+*.local
