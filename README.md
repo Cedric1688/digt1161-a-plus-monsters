@@ -4,7 +4,7 @@ A DIGT1161 team project for short daily practice reviewing AI-written Python cod
 
 ## Current stage
 
-Proposal and repository setup. No runnable application, deployed service, completed interview, or user-test result is claimed by this repository.
+Proposal and repository setup. The documentation website is deployed; no runnable application, completed interview or user-test result is claimed.
 
 The proposed MVP uses fictional test accounts, three-question daily challenges, answer explanations, saved progress, and a study-group streak. Placement quizzes, adaptive difficulty, public registration, additional languages, PWA installation, and code execution are outside the MVP.
 
